@@ -26,4 +26,4 @@ This project was developed as a learning exercise for beginner-level C# programm
 
 ## Credits
 
-This project was created by [Ravi Sharma]. Thank you for playing!
+This project was created by Ravi Sharma. Thank you for playing!
